@@ -1,0 +1,17 @@
+.rectangle-1 {
+  background-color: yellow;
+  width: 150px;
+  height: 150px;
+  border-left: 2px solid yellow;
+  border-top: 2px solid yellow;
+  border-right: 2px solid yellow;
+  border-bottom: 2px solid yellow;
+  margin: 0 auto;
+}
+h1 {
+  font-style: italic;
+  color: blue;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  display: flex;
+  justify-content: center;
+}
